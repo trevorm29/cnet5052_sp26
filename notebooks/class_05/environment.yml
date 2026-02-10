@@ -1,0 +1,14 @@
+name: gtcnet5052
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - graph-tool
+  - networkx
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - tqdm
