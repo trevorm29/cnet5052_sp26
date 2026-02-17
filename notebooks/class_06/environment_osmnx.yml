@@ -1,0 +1,18 @@
+name: oxcnet5052
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - osmnx>=2.0,<3
+  - geopandas
+  - shapely
+  - pyproj
+  - rtree
+  - networkx
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - tqdm
